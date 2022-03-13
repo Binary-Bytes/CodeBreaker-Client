@@ -10003,7 +10003,7 @@ li {
     width: 100vw;
     max-width: 100%;
     height: auto;
-    background-image: url("/img/pixel-rain.gif");
+    background-image: url("../img/pixel-rain.gif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
